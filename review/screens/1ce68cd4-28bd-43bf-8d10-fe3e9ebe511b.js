@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605703761803.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605703761803-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605711341655.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605711341655-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-1ce68cd4-28bd-43bf-8d10-fe3e9ebe511b" class="pie screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Mes_economico" width="1280" height="1800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/1ce68cd4-28bd-43bf-8d10-fe3e9ebe511b-1605703761803.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/1ce68cd4-28bd-43bf-8d10-fe3e9ebe511b-1605703761803-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/1ce68cd4-28bd-43bf-8d10-fe3e9ebe511b-1605703761803-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/1ce68cd4-28bd-43bf-8d10-fe3e9ebe511b-1605711341655.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/1ce68cd4-28bd-43bf-8d10-fe3e9ebe511b-1605711341655-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/1ce68cd4-28bd-43bf-8d10-fe3e9ebe511b-1605711341655-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_3" class="group firer ie-background commentable non-processed" customid="Group_1" datasizewidth="1024.0px" datasizeheight="70.0px" >\
         <div id="s-Rectangle_3" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="866.0px" datasizeheight="70.0px" datasizewidthpx="865.968383789062" datasizeheightpx="70.0" dataX="207.0" dataY="56.0" >\

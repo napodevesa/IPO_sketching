@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605703761803.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605703761803-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605711341655.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605711341655-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -12,15 +12,15 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       <div id="loadMark"></div>\
     </div>\
 \
-    <div id="s-a38f2454-b95d-415b-9af8-0d4457e36843" class="pie screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Mapa" width="1280" height="1550">\
+    <div id="s-a38f2454-b95d-415b-9af8-0d4457e36843" class="pie screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Mapa_COVID" width="1280" height="1550">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/a38f2454-b95d-415b-9af8-0d4457e36843-1605703761803.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/a38f2454-b95d-415b-9af8-0d4457e36843-1605703761803-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/a38f2454-b95d-415b-9af8-0d4457e36843-1605703761803-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/a38f2454-b95d-415b-9af8-0d4457e36843-1605711341655.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/a38f2454-b95d-415b-9af8-0d4457e36843-1605711341655-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/a38f2454-b95d-415b-9af8-0d4457e36843-1605711341655-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group_1" datasizewidth="1024.0px" datasizeheight="70.0px" >\
-        <div id="s-Rectangle_1" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="866.0px" datasizeheight="70.0px" datasizewidthpx="865.9683837890623" datasizeheightpx="69.99999999999994" dataX="207.0" dataY="62.0" >\
+        <div id="s-Rectangle_1" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="866.0px" datasizeheight="70.0px" datasizewidthpx="865.9683837890625" datasizeheightpx="69.99999999999989" dataX="207.0" dataY="62.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -36,7 +36,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_1" class="pie image firer ie-background commentable non-processed" customid="Image_1"   datasizewidth="25.0px" datasizeheight="18.0px" dataX="249.0" dataY="88.0"   alt="image" systemName="./images/3041b353-4fcb-48a5-a5ec-df17a2187c4d.svg" overlay="#333333">\
+        <div id="s-Image_1" class="pie image firer ie-background commentable non-processed" customid="Image_1"   datasizewidth="25.0px" datasizeheight="18.0px" dataX="249.3" dataY="88.0"   alt="image" systemName="./images/3041b353-4fcb-48a5-a5ec-df17a2187c4d.svg" overlay="#333333">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -58,7 +58,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Rectangle_2" class="pie rectangle manualfit firer mouseenter mouseleave mousedown mouseup click commentable non-processed" customid="Rectangle_2"   datasizewidth="160.0px" datasizeheight="43.0px" datasizewidthpx="160.0" datasizeheightpx="43.0" dataX="912.0" dataY="75.0" >\
+        <div id="s-Rectangle_2" class="pie rectangle manualfit firer mouseenter mouseleave mousedown mouseup click commentable non-processed" customid="Rectangle_2"   datasizewidth="160.0px" datasizeheight="43.0px" datasizewidthpx="159.99999999999955" datasizeheightpx="43.000000000000114" dataX="894.0" dataY="75.5" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -105,95 +105,6 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-\
-      <div id="s-Group_2" class="group firer ie-background commentable non-processed" customid="Slider_6" datasizewidth="1024.0px" datasizeheight="665.0px" >\
-        <div id="s-Rectangle_3" class="pie rectangle manualfit firer commentable non-processed" customid="Bg_grey"   datasizewidth="599.4px" datasizeheight="333.0px" datasizewidthpx="599.4213606298433" datasizeheightpx="333.0" dataX="341.0" dataY="644.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Rectangle_3_0"></span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-\
-        <div id="s-Image_2" class="pie image lockV firer ie-background commentable non-processed" customid="Image_24"   datasizewidth="764.0px" datasizeheight="565.7px" dataX="258.0" dataY="497.0" aspectRatio="0.74050635"   alt="image">\
-          <div class="borderLayer">\
-          	<div class="imageViewport">\
-          		<img src="./images/a1191120-b4fa-4d9e-a8db-438572d0f50d.png" />\
-          	</div>\
-          </div>\
-        </div>\
-\
-\
-        <div id="s-Image_3" class="pie image firer ie-background commentable non-processed" customid="Image_4"   datasizewidth="8.8px" datasizeheight="27.0px" dataX="364.0" dataY="1100.0"   alt="image" systemName="./images/647a1398-bfa7-4a17-b3be-c3dcc467102a.svg" overlay="#DDDDDD">\
-          <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="27px" version="1.1" viewBox="0 0 15 27" width="15px">\
-            	    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->\
-            	    <title>Arrow Left</title>\
-            	    <desc>Created with Sketch.</desc>\
-            	    <defs />\
-            	    <g fill="none" fill-rule="evenodd" id="s-Image_3-Page-1" stroke="none" stroke-width="1">\
-            	        <g fill="#DDDDDD" id="s-Image_3-Components" transform="translate(-430.000000, -1276.000000)">\
-            	            <g id="s-Image_3-Arrow-Left" transform="translate(429.000000, 1276.000000)">\
-            	                <polyline points="1.157 0 0 1.144 12.325 13.62 0 25.691 1.325 27 15 13.691 1.157 0" transform="translate(8.000000, 14.000000) scale(-1, 1) translate(-8.000000, -14.000000) " style="fill:#DDDDDD !important;" />\
-            	            </g>\
-            	        </g>\
-            	    </g>\
-            	</svg>\
-\
-            </div>\
-          </div>\
-        </div>\
-\
-\
-        <div id="s-Image_4" class="pie image firer ie-background commentable non-processed" customid="Image_5"   datasizewidth="8.8px" datasizeheight="27.0px" dataX="908.0" dataY="1100.0"   alt="image" systemName="./images/226a2416-579d-4219-9f8d-d06391e54b8f.svg" overlay="#DDDDDD">\
-          <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="27px" version="1.1" viewBox="0 0 15 27" width="15px">\
-            	    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->\
-            	    <title>Arrow Right</title>\
-            	    <desc>Created with Sketch.</desc>\
-            	    <defs />\
-            	    <g fill="none" fill-rule="evenodd" id="s-Image_4-Page-1" stroke="none" stroke-width="1">\
-            	        <g fill="#DDDDDD" id="s-Image_4-Components" transform="translate(-463.000000, -1276.000000)">\
-            	            <g id="s-Image_4-Arrow-Right" transform="translate(463.000000, 1276.000000)">\
-            	                <polyline points="1.157 0 0 1.144 12.325 13.62 0 25.691 1.325 27 15 13.691 1.157 0" style="fill:#DDDDDD !important;" />\
-            	            </g>\
-            	        </g>\
-            	    </g>\
-            	</svg>\
-\
-            </div>\
-          </div>\
-        </div>\
-\
-        <div id="s-Paragraph_3" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_4"   datasizewidth="98.3px" datasizeheight="64.0px" dataX="752.0" dataY="1187.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_3_0"></span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-\
 \
       <div id="s-Group_3" class="group firer ie-background commentable non-processed" customid="Content_2" datasizewidth="1024.0px" datasizeheight="540.0px" >\
         <div id="s-Rectangle_5" class="pie rectangle manualfit firer commentable non-processed" customid="Bg"   datasizewidth="866.0px" datasizeheight="210.0px" datasizewidthpx="865.9684584084763" datasizeheightpx="209.99999999999955" dataX="207.0" dataY="1146.0" >\
@@ -247,7 +158,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Paragraph_5_0">27<br /></span><span id="rtr-s-Paragraph_5_1">Restricciones leves<br />Puedes viajar a estos pa&iacute;ses y probablemente no tengas que hacer cuarentena al llegar ni al volver.</span>\
+                  <span id="rtr-s-Paragraph_5_0">4<br /></span><span id="rtr-s-Paragraph_5_1">Restricciones leves<br />Puedes viajar a estos pa&iacute;ses y probablemente no tengas que hacer cuarentena al llegar ni al volver.</span>\
                 </div>\
               </div>\
             </div>\
@@ -262,7 +173,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Paragraph_6_0">108<br /></span><span id="rtr-s-Paragraph_6_1">Restricciones moderadas<br />Puedes viajar a estos pa&iacute;ses si cumples algunos requisitos de entrada, como una prueba de COVID-19. Tambi&eacute;n es posible que debas hacer cuarentena al llegar o al volver.</span>\
+                  <span id="rtr-s-Paragraph_6_0">15<br /></span><span id="rtr-s-Paragraph_6_1">Restricciones moderadas<br />Puedes viajar a estos pa&iacute;ses si cumples algunos requisitos de entrada, como una prueba de COVID-19. Tambi&eacute;n es posible que debas hacer cuarentena al llegar o al volver.</span>\
                 </div>\
               </div>\
             </div>\
@@ -292,7 +203,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Paragraph_8_0">90<br /></span><span id="rtr-s-Paragraph_8_1">Restricciones elevadas<br />Es posible que no puedas viajar a este pa&iacute;s: las fronteras podr&iacute;an estar cerradas, el acceso podr&iacute;a estar permitido solo a sus ciudadanos o podr&iacute;a haber fuertes restricciones.</span>\
+                  <span id="rtr-s-Paragraph_8_0">10<br /></span><span id="rtr-s-Paragraph_8_1">Restricciones elevadas<br />Es posible que no puedas viajar a este pa&iacute;s: las fronteras podr&iacute;an estar cerradas, el acceso podr&iacute;a estar permitido solo a sus ciudadanos o podr&iacute;a haber fuertes restricciones.</span>\
                 </div>\
               </div>\
             </div>\
@@ -421,6 +332,15 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
+      </div>\
+\
+\
+      <div id="s-Image_2" class="pie image firer ie-background commentable non-processed" customid="Image_24"   datasizewidth="866.0px" datasizeheight="571.0px" dataX="207.0" dataY="477.0"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/4b262048-5064-4056-83df-ba907f2051d3.png" />\
+        	</div>\
+        </div>\
       </div>\
 \
       </div>\

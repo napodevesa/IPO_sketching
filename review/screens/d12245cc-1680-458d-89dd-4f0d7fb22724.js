@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605703761803.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605703761803-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605711341655.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605711341655-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="pie screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Screen 1" width="1280" height="2800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1605703761803.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1605703761803-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1605703761803-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1605711341655.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1605711341655-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1605711341655-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group_1" datasizewidth="1024.0px" datasizeheight="450.0px" >\
         <div id="s-Rectangle_1" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="1200.0px" datasizeheight="276.4px" datasizewidthpx="1199.9999810210545" datasizeheightpx="276.38221870789044" dataX="39.0" dataY="-38.0" >\
@@ -256,22 +256,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
 \
 \
       <div id="s-Group_3" class="group firer ie-background commentable non-processed" customid="Group_2" datasizewidth="631.0px" datasizeheight="43.0px" >\
-        <div id="s-Rectangle_5" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_5"   datasizewidth="206.2px" datasizeheight="38.0px" datasizewidthpx="206.241543200945" datasizeheightpx="37.95389623101312" dataX="346.0" dataY="573.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Rectangle_5_0">Mapa interactivo</span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Rectangle_6" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_6"   datasizewidth="206.2px" datasizeheight="38.0px" datasizewidthpx="206.2415432009443" datasizeheightpx="37.95389623101312" dataX="548.0" dataY="573.0" >\
+        <div id="s-Rectangle_6" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_6"   datasizewidth="206.2px" datasizeheight="38.0px" datasizewidthpx="206.2415432009443" datasizeheightpx="37.95389623101312" dataX="329.0" dataY="576.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -286,7 +271,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Rectangle_7" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="206.2px" datasizeheight="38.0px" datasizewidthpx="206.241543200945" datasizeheightpx="37.95389623101312" dataX="749.0" dataY="573.0" >\
+        <div id="s-Rectangle_7" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_7"   datasizewidth="206.2px" datasizeheight="38.0px" datasizewidthpx="206.241543200945" datasizeheightpx="37.95389623101312" dataX="535.0" dataY="576.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -295,13 +280,13 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Rectangle_7_0">Ofertas</span>\
+                  <span id="rtr-s-Rectangle_7_0">MAPA OFERTAS</span>\
                 </div>\
               </div>\
             </div>\
           </div>\
         </div>\
-        <div id="s-Rectangle_8" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_8"   datasizewidth="206.2px" datasizeheight="38.0px" datasizewidthpx="206.24154320094476" datasizeheightpx="37.95389623101312" dataX="143.0" dataY="573.0" >\
+        <div id="s-Rectangle_8" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_8"   datasizewidth="206.2px" datasizeheight="38.0px" datasizewidthpx="206.24154320094476" datasizeheightpx="37.95389623101312" dataX="123.0" dataY="576.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -316,7 +301,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Rectangle_9" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_6"   datasizewidth="206.2px" datasizeheight="38.0px" datasizewidthpx="206.2415432009443" datasizeheightpx="37.95389623101312" dataX="929.0" dataY="573.0" >\
+        <div id="s-Rectangle_9" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_6"   datasizewidth="206.2px" datasizeheight="38.0px" datasizewidthpx="206.2415432009443" datasizeheightpx="37.95389623101312" dataX="742.0" dataY="576.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -326,6 +311,21 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
               <div class="content">\
                 <div class="valign">\
                   <span id="rtr-s-Rectangle_9_0">Informaci&oacute;n sobre viajes y COVID-19</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Rectangle_41" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_6"   datasizewidth="206.2px" datasizeheight="38.0px" datasizewidthpx="206.2415432009443" datasizeheightpx="37.95389623101312" dataX="948.0" dataY="576.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_41_0">MAPA COVID</span>\
                 </div>\
               </div>\
             </div>\
@@ -456,7 +456,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
 \
       </div>\
 \
-      <div id="s-Paragraph_8" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="415.6px" datasizeheight="141.0px" dataX="431.2" dataY="680.0" >\
+      <div id="s-Paragraph_8" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="440.6px" datasizeheight="141.0px" dataX="431.2" dataY="680.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -465,7 +465,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Paragraph_8_0">RENFE BLOG <br /></span><span id="rtr-s-Paragraph_8_1">Ideas para tus escapadas <br /><br /></span>\
+                <span id="rtr-s-Paragraph_8_0">RENFE BLOG <br /></span><span id="rtr-s-Paragraph_8_1">&iexcl;Ideas para tus vacaciones! <br /><br /></span>\
               </div>\
             </div>\
           </div>\
